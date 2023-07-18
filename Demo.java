@@ -6,6 +6,9 @@ public class Demo
         System.out.println("More info here");
         
         Node n = new Node();
-        
+        for (int i = 0; i < 5; i++)
+        {
+            System.out.println(i);
+        }
     }
 }
